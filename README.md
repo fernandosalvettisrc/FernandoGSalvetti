@@ -1,4 +1,4 @@
-## Olá, meu nome é Fernando Giuseppe Salvetti
+## Olá, meu nome é Fernando Giuseppe Salvetti. Este é um GitHub pessoal onde eu subo projetos que eu estou estudando e trabalhando.
  <div>
   <a href="https://github.com/FernandoGSalvetti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandoGSalvetti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
